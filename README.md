@@ -1,6 +1,6 @@
 # Gestor de Usuarios
 
-Este es un proyecto de prueba. El objetivo del proyecto es desarrollar un mantenedor que permita realizar las siguientes operaciones: Crear, Editar, Eliminar y Ver registros de usuarios. La información se obtiene desde la API proporcionada en el enlace:(https://randomuser.me/api/) y se guarda en una base de datos para poder mostrarla y editarla o eliminarla posteriormente
+Este es un proyecto de prueba técnica. El objetivo del proyecto es desarrollar un mantenedor que permita realizar las siguientes operaciones: Crear, Editar, Eliminar y Ver registros de usuarios. La información se obtiene desde la API proporcionada en el enlace:(https://randomuser.me/api/) y se guarda en una base de datos para poder mostrarla y editarla o eliminarla posteriormente
 
 ## Características
 
